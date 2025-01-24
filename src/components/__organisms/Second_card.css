@@ -1,4 +1,4 @@
-.container {
+.Second_card {
   max-width: 412px;
   width: 100%;
   height: 416px;
@@ -10,6 +10,6 @@
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  padding-left: 32px;
-  
+  display: flex;
+  display: none;
 }

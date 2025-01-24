@@ -46,7 +46,9 @@
 .buttons:hover {
   background-color: #7c8798;
 }
-
+.buttons.active {
+  background-color: #fc7614;
+}
 .submit {
   max-width: 341px;
   width: 100%;
