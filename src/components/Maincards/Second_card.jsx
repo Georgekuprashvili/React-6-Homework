@@ -1,6 +1,6 @@
-import "../__organisms/Second_card.css"
-import Phone_img from "../__molecules/Phone_img";
-import Second_card_paragraph from "../__molecules/Second_card_paradgraph";
+import '../Maincards/Second_card.css'
+import Phone_img from "../Second_card_sections/Phone_img";
+import Second_card_paragraph from "../Second_card_sections/Second_card_paradgraph";
 
 
 function Second_card() {

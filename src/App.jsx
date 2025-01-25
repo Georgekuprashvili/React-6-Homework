@@ -1,8 +1,9 @@
 import { useState } from 'react'
 
 import './App.css'
-import Main_card from './components/__organisms/Main_card'
-import Second_card from './components/__organisms/Second_card'
+import Main_card from './components/Maincards/Main_card'
+import Second_card from './components/Maincards/Second_card'
+
 
 function App() {
   const [count, setCount] = useState(0)

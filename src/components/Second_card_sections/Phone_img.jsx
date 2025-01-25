@@ -1,5 +1,5 @@
 import phoneimg from "../../assets/Online payment_Two Color(1) 2.svg";
-import '../__molecules/Second.css';
+import '../Second_card_sections/Second.css';
 
 
 function Phone_img() {

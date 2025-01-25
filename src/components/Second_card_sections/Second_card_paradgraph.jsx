@@ -1,4 +1,4 @@
-import "../__molecules/Second.css"
+import '../Second_card_sections/Second.css';
 
 function Second_card_paragraph() {
 

@@ -1,6 +1,6 @@
 
 import { useState } from "react";
-import '../__molecules/Sections.css';
+import '../First_card_sections/Sections.css';
 
 function Buttons() {
   const [numbers, setValue] = useState([1, 2, 3, 4, 5]);

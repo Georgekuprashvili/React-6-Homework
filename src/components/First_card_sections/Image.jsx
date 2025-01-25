@@ -1,4 +1,4 @@
-import "../__molecules/Sections.css"
+import '../First_card_sections/Sections.css';
 import photo1 from '../../assets/Star.svg'
 
 function Image() {
