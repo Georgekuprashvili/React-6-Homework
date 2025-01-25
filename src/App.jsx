@@ -1,23 +1,24 @@
 import { useState } from 'react'
 
 import './App.css'
-import Main_card from './components/Maincards/Main_card'
-import Second_card from './components/Maincards/Second_card'
+import Main from './components/Mainfolder/Main'
 
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
       
 
-<Main_card/>
+<Main/>
 
-<Second_card/>
 
     </>
   )
 }
 
 export default App
+
+
+
+
